@@ -29,13 +29,13 @@ In 2025, several code improvements and structural fixes were applied — mainly 
 collision logic, and gameplay smoothness — but the core mechanics and style remain true to the original version.
 
 ## Before Boss fight
-![Gameplay Screenshot](Iimages/Picture1.jpg)
+![Gameplay Screenshot](images/Picture1.jpg)
 
 ## While Boss fight
-![Gameplay Screenshot](Iimages/Picture4.jpg)
-![Gameplay Screenshot](Iimages/Picture2.jpg)
+![Gameplay Screenshot](images/Picture4.jpg)
+![Gameplay Screenshot](images/Picture2.jpg)
 
 
 ## After Boss fight
 
-![Gameplay Screenshot](Iimages/Picture3.jpg)
+![Gameplay Screenshot](images/Picture3.jpg)
