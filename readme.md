@@ -21,7 +21,7 @@ Make sure you have **Python 3.8+** and **Pygame** installed:
 
 ```bash
 pip install pygame
-
+```
 ## 🧩 About the Project
 
 This project was originally created in 2022 as a personal experiment in game design and Pygame programming.
