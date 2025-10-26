@@ -2,6 +2,7 @@
 
 **Dodge&Shot** is a fast-paced 2D dodge-and-shoot game made with **Python and Pygame**.  
 You control a small green circle, dodge enemies, and fight a giant boss while using your abilities wisely!
+Inspired by lol dodge game.
 
 
 
